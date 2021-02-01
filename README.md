@@ -17,3 +17,6 @@ const tlds = require('../index.js') // require the module
 
 tlds.includes('com') // check if a tls is present
 ```
+
+### Other
+For any issue feel free to open an issue
