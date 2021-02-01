@@ -1,0 +1,31 @@
+{
+  "name": "@akiflow/tlds-list",
+  "version": "0.0.1",
+  "description": "This package provide the list of top level domains, easily formatted in JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akiflow/tlds-list.git"
+  },
+  "keywords": [
+    "tlds",
+    "top",
+    "levels",
+    "domains",
+    "first",
+    "level",
+    "domain"
+  ],
+  "author": {
+    "name": "Akiflow Inc.",
+    "email": "developers@akiflow.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akiflow/tlds-list/issues"
+  },
+  "homepage": "https://github.com/akiflow/tlds-list#readme"
+}

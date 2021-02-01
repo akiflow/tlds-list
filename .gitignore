@@ -1,0 +1,14 @@
+node_modules
+/node_modules
+/.idea
+/.vagrant
+/.vs
+npm-debug.log
+.env
+.directory
+.DS_Store
+.phpIntel
+.phpstorm.meta.php
+!.gitkeep
+.sass-cache
+/dist
