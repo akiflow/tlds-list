@@ -7,7 +7,7 @@ The list is fetched directly  from: [https://data.iana.org/TLD/tlds-alpha-by-dom
 ## Usage
 
 ### Install
-```js
+```bash
 npm install @akiflow/tlds-list
 ```
 
