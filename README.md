@@ -15,7 +15,16 @@ npm install @akiflow/tlds-list
 ```js
 const tlds = require('../index.js') // require the module
 
-tlds.includes('com') // check if a tls is present
+tlds.includes('com') // check if a tld is present
+```
+
+### Notes
+Tlds are lowercase, so it's better to lowercase the tld you are looking for before searching:
+
+```js
+const tld='NET'
+tlds.includes(tld.toLowerCase()) // WRONG
+tlds.includes(tld.toLowerCase()) // RIGHT
 ```
 
 ### Other
