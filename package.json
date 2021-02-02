@@ -1,6 +1,6 @@
 {
   "name": "@akiflow/tlds-list",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This package provide the list of top level domains, easily formatted in JSON",
   "main": "index.js",
   "scripts": {

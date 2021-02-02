@@ -23,7 +23,7 @@ Tlds are lowercase, so it's better to lowercase the tld you are looking for befo
 
 ```js
 const tld='NET'
-tlds.includes(tld.toLowerCase()) // WRONG
+tlds.includes(tld) // WRONG
 tlds.includes(tld.toLowerCase()) // RIGHT
 ```
 
