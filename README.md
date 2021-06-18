@@ -13,7 +13,7 @@ npm install @akiflow/tlds-list
 
 ### Usage
 ```js
-const tlds = require('../index.js') // require the module
+const tlds = require('@akiflow/tlds-list') // require the module
 
 tlds.includes('com') // check if a tld is present
 ```
